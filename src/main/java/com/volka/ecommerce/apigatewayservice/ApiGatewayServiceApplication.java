@@ -1,4 +1,4 @@
-package volka.ecommerce.apigatewayservice;
+package com.volka.ecommerce.apigatewayservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
